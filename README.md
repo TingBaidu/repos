@@ -1,2 +1,1 @@
-# repos
-for practicing git and git hub
+# projectb's README
