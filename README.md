@@ -4,3 +4,4 @@ line 3: by p1
 line 4: by p1, topic branch
 line 5: by p1
 line 6: by p2
+line 7: by p2
